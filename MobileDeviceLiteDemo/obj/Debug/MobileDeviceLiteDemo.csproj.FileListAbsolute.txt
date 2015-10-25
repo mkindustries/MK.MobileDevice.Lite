@@ -1,0 +1,8 @@
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\bin\Debug\MobileDeviceLiteDemo.exe.config
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\bin\Debug\MobileDeviceLiteDemo.exe
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\bin\Debug\MobileDeviceLiteDemo.pdb
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\bin\Debug\MK.MobileDevice.Lite.dll
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\bin\Debug\MK.MobileDevice.Lite.pdb
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\obj\Debug\MobileDeviceLiteDemo.csprojResolveAssemblyReference.cache
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\obj\Debug\MobileDeviceLiteDemo.exe
+D:\nihal_eyduebg\Programs\C#\ExaPhaser\iOS\MK iToolkit\lib_MK MobileDevice\MK.MobileDevice.Lite\v5.0.6\MobileDeviceLiteDemo\obj\Debug\MobileDeviceLiteDemo.pdb
